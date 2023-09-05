@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: lightcyan;
+    background:linear-gradient(100deg,#ff99c8,#fcf6bd,#d0f4de,#a9def9,#e4c1f9)
 }
 .main-section{
     display: flex;
